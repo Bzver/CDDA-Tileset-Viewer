@@ -15,7 +15,7 @@ This tool allows you to easily view and browse different tilesets for the game C
 You have two options for installation:
 
 1.  **Download the executable:**
-    * Simply download the latest V1.0 executable from the [releases page](Link to your releases page - you'll need to add this link).
+    * Simply download the latest V1.0 executable.
     * Run the downloaded executable file.
 
 2.  **Run from source:**
